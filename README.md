@@ -1,6 +1,4 @@
 # PhonePe-Transaction-Analysis-
-## Dashboard Preview
-![PhonePe Dashboard] (PhonePe-Dashboard.png)
 PhonePe Transaction Analysis Dashboard
 
 Project Overview
